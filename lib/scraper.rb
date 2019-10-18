@@ -1,3 +1,4 @@
+require "pry"
 require 'nokogiri'
 require 'open-uri'
 
@@ -15,6 +16,18 @@ class Scraper
       end
     end
   end
+  
+  def get_page 
+    
+  end 
+  
+  def get_course
+    
+  end 
+  
+  def make_courses
+    
+  end 
   
 end
 
